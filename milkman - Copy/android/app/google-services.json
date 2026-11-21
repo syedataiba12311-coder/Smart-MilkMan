@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972966439225",
+    "project_id": "milkman-81dd8",
+    "storage_bucket": "milkman-81dd8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972966439225:android:a6db89c23a431bc92060e8",
+        "android_client_info": {
+          "package_name": "com.example.milkman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDhUcpqWJtBzigXKJdH-KN-SvsormF-F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

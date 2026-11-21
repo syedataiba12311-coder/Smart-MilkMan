@@ -1,0 +1,13 @@
+﻿Analyzing deliveryboy.dart...
+
+warning - deliveryboy.dart:297:11 - A value for optional parameter 'key' isn't ever given. Try removing the unused parameter. - unused_element_parameter
+warning - deliveryboy.dart:347:11 - A value for optional parameter 'key' isn't ever given. Try removing the unused parameter. - unused_element_parameter
+warning - deliveryboy.dart:392:7 - The declaration '_MiniActionCard' isn't referenced. Try removing the declaration of '_MiniActionCard'. - unused_element
+warning - deliveryboy.dart:398:11 - A value for optional parameter 'key' isn't ever given. Try removing the unused parameter. - unused_element_parameter
+warning - deliveryboy.dart:439:36 - A value for optional parameter 'key' isn't ever given. Try removing the unused parameter. - unused_element_parameter
+   info - deliveryboy.dart:185:43 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - deliveryboy.dart:322:36 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - deliveryboy.dart:425:38 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - deliveryboy.dart:559:43 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+
+9 issues found.
